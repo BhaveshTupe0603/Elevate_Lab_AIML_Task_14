@@ -30,5 +30,5 @@
 *(Note: Save the bar chart from the notebook and link it here)*
 
 ## 📂 Files
-* [📓 Jupyter Notebook](./Task 14.ipynb)
+* [📓 Jupyter Notebook](./Task_14.ipynb)
 * [💾 Best Model (.pkl)](./best_model.pkl)
